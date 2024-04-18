@@ -1,0 +1,95 @@
+
+body{
+    background-color:rgb(210, 255, 240);
+}
+h1{
+    color:Black;
+    text-align: center;
+    margin-top: 125px;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color:Black;
+    Text-align: center;
+    margin-top: 15%; 
+    Font-size: 60px;
+}
+h3{
+    color: black;
+    text-align:center;
+    margin-top: 5%;
+    font-size: 30px;
+
+}
+a{
+    border-color: black;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color:navy;
+    background-color: rgb(231, 230, 230);
+    Cursor: pointer;
+    font-size: 20px;
+    padding: 20px 60px;
+    text-align: center;
+    transition-duration:.4sec;
+    text-decoration:none;
+}
+.button1{
+    margin-left:40%;
+}
+.button1:hover{
+    background-color:lightgreen;
+    color:green;
+}
+.button2{
+    margin-top: 150px;
+}
+.button2:hover{
+    background-color: pink;
+    color: red;
+}
+.button3{
+    margin-top: 150px;
+    margin-left: 45%;
+}
+.button3:hover{
+    background-color: pink;
+    color: red;
+}
+.button4{
+    margin-top: 150px;
+    margin-left: 40%;
+}
+.button4:hover{
+    background-color: pink;
+    color: red;
+}
+ol{
+    font-weight:bold;
+    font-size: 20px;
+}
+ul{
+    font-weight:normal;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.footer{
+    background-color: navy;
+    color:white;
+    height:25px;
+    bottom:0px;
+    position:fixed;
+    left: 0px;
+    right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    text-align:center;
+    text-decoration: underline; 
+}
+img{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
